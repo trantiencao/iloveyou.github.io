@@ -1,0 +1,12 @@
+body {
+    background-color: #111;
+    padding-top: 30px
+}
+
+#txt span {
+    font-family: courier, arial, helvetica, cursive!important;
+    font-size: 30px;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000, 3px 3px 5px blue;
+    user-select: none
+}
